@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbsolanki" alt="hbsolanki" /></a> </p>
 
-- 🔭 I’m currently working on **Exploring Finance Potfolio**
+- 🔭 I’m currently working on **Exploring Finance Potfolio Web**
 
-- 🌱 I’m currently learning **Nextjs,Python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **react, java**
 
