@@ -1,14 +1,14 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Developer From Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="hbsolanki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbsolanki" alt="hbsolanki" /></a> </p>
 
-- 🔭 I’m currently working on **Exploring Finance Potfolio Web**
+- 🔭 I’m currently working on **Exploring Finance Potfolio Web,Travel Social Hub**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **react, java**
+- 💬 Ask me about **react, java, Machine Learning**
 
 - 📫 How to reach me **hbsolanki0524@gmail.com**
 
