@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Exploring Finance Potfolio Web,Travel Social Hub**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **react, java, Machine Learning**
 
